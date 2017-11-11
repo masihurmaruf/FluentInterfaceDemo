@@ -12,6 +12,10 @@ The following was used to create this project
 * selenium-java 3.6.0
 * testng 6.11
 
+## Application Under test
+
+Basic test to google search. **url** - `https://www.google.com` 
+
 ## Basic fluent interface
 
 Basic fluent interface for the test.
