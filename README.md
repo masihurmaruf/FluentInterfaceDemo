@@ -1,6 +1,6 @@
 # Selenium FluentInterface demo
 
-## overview
+## Overview
 This is a simple demo project to demonstrate the `fluent interface` design with **Selenium WebDriver**.
 
 ## Project Information
@@ -11,6 +11,7 @@ The following was used to create this project
 * maven 3.3.9
 * selenium-java 3.6.0
 * testng 6.11
+* platform macOS Sierra 10.12.6 
 
 ## Application Under test
 
